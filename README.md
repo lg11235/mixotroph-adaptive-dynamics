@@ -1,1 +1,0 @@
-# mixotroph-eco-evolutionary-modeling
