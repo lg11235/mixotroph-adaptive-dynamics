@@ -1,1 +1,1 @@
-# mixotroph-adaptive-dynamics
+# mixotroph-eco-evolutionary-modeling
